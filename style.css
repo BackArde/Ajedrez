@@ -44,7 +44,7 @@ cursor: grab;
 .negras {
 background: black; 
 color: white; 
-border: 2px outset white; 
+border: 2px outset rgb(218, 10, 166); 
 }
 
 .mano {
