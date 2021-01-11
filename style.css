@@ -1,6 +1,6 @@
 table {
 margin: auto; 
-border: outset maroon 6px; 
+border: outset rgb(230, 4, 181) 6px; 
 background: black; 
 cursor: crosshair; 
 }
@@ -13,7 +13,7 @@ h1 {
 td {
 line-height: 0; 
 width: 40px; height: 40px; 
-background: brown; 
+background: rgb(0, 0, 0); 
 text-align: center; 
 vertical-align: middle; 
 -webkit-touch-callout: none;
